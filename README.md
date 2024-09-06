@@ -1,8 +1,11 @@
 <img src="https://github.com/hazelgarro/hazelgarro/blob/main/EncabezadoHG.png">
 
-## Hi, I'm Hazel Garro ✌🏼
-## I am a web developer, student of Computer Science at the Universidad de Costa Rica. 
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://portfolio-hazelgarro.vercel.app">Hazel Garro</a> ✌🏼</h1>
+<p>I am a web developer, student of Computer Science at the Universidad de Costa Rica.</p>
+</div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazelgarro&layout=compact&theme=radical)
 
 
 
