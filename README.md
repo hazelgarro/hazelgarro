@@ -1,6 +1,10 @@
 <img src="https://github.com/hazelgarro/hazelgarro/blob/main/EncabezadoHG.png">
 
-## Hi there 👋
+## Hi, I'm Hazel Garro ✌🏼
+## I am a web developer, student of Computer Science at the Universidad de Costa Rica. 
+
+
+
 
 <!--
 **hazelgarro/hazelgarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
