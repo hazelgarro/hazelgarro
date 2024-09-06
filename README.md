@@ -2,8 +2,8 @@
 
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://portfolio-hazelgarro.vercel.app">Hazel Garro</a> ✌🏼</h1>
-<p>I am a web developer, student of Computer Science at the Universidad de Costa Rica.</p>
-<p>In addition to programming, I have knowledge of UX UI design.</p>
+<p>I'm a web developer, student of Computer Science at the Universidad de Costa Rica. 🎓</p>
+<p>In addition to programming, I have knowledge of UX UI design. ✨</p>
 </div>
 
 <br>
