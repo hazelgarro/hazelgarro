@@ -3,6 +3,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://portfolio-hazelgarro.vercel.app">Hazel Garro</a> ✌🏼</h1>
 <p>I am a web developer, student of Computer Science at the Universidad de Costa Rica.</p>
+<p>In addition to programming, I have knowledge of UX UI design.</p>
 </div>
 
 <br>
@@ -28,12 +29,21 @@
    <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazelgarro&layout=compact&theme=dark" />
   </div>
+  <br>
+  <p>If you would like to see my work</p>
+  <a href="https://portfolio-hazelgarro.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23757BC8.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+</a>
 </div>
 
 <div align="center">
 <h2>Contact me at</h2>
-  <img src="https://img.shields.io/badge/Email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazelvaleriagarroarias@gmail.com)" />
-
+   <a href="mailto:hazelvaleriagarroarias@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hazelgarro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=blake" alt="LinkedIn"/>
+  </a>
 </div>
 
 
