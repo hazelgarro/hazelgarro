@@ -1,4 +1,4 @@
-<img src="https://github.com/hazelgarro/hazelgarro/blob/main/EncabezadoHG.png">
+<img src="https://github.com/hazelgarro/hazelgarro/blob/main/EncabezadoHazelGarro.png">
 
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://portfolio-hazelgarro.vercel.app">Hazel Garro</a> ✌🏼</h1>
