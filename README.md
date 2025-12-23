@@ -31,7 +31,7 @@
   </div>
   <br>
   <p>If you would like to see my work</p>
-  <a href="https://portfolio-hazelgarro.vercel.app/" target="_blank">
+  <a href="https://hazel-garro-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23757BC8.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
 </a>
 </div>
