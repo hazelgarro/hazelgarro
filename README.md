@@ -24,7 +24,6 @@
     <img src="https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
     <img src="https://img.shields.io/badge/WordPress-%21759DB3.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
     <img src="https://img.shields.io/badge/LESS-%231d365d.svg?style=for-the-badge&logo=less&logoColor=white" alt="LESS"/>
