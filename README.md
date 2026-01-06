@@ -35,9 +35,7 @@
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </div>
   <br>
-   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazelgarro&layout=compact&theme=dark" />
-  </div>
+   
   <br>
   <p>If you would like to see my work</p>
   <a href="https://hazel-garro-portfolio.vercel.app/" target="_blank">
