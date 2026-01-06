@@ -1,9 +1,10 @@
 <img src="https://github.com/hazelgarro/hazelgarro/blob/main/EncabezadoHazelGarro.png">
 
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://portfolio-hazelgarro.vercel.app">Hazel Garro</a> ✌🏼</h1>
-<p>I'm a web developer, student of Computer Science at the Universidad de Costa Rica. 🎓</p>
-<p>In addition to programming, I have knowledge of UX UI design. ✨</p>
+<h1 align="center">Hi, I'm <a href="https://hazel-garro-portfolio.vercel.app/">Hazel Garro</a> ✌🏼</h1>
+<p>I'm a Web Developer with a Bachelor's degree in Computer Science and Multimedia Technology from the Universidad de Costa Rica. 🎓</p>
+<p>Beyond programming, I bring strong skills in UX/UI design and prototyping with Figma, blending technical precision with creative problem-solving. ✨</p>
+<p>If I am not proficient in a particular technology, I am willing and able to learn quickly, adapting to the needs of the project. 😄 </p>
 </div>
 
 <br>
@@ -24,6 +25,14 @@
     <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
     <img src="https://img.shields.io/badge/WordPress-%21759DB3.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/LESS-%231d365d.svg?style=for-the-badge&logo=less&logoColor=white" alt="LESS"/>
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/Blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
+    <img src="https://img.shields.io/badge/Umbraco-%23007CFF.svg?style=for-the-badge&logo=umbraco&logoColor=white" alt="Umbraco"/>
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </div>
   <br>
    <div>
